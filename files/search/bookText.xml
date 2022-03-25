@@ -1,0 +1,1445 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="33"><page Index="1"><![CDATA[➢  ESTUDIOS DE CASO]]></page><page Index="2"><![CDATA[INDICE
+
+
+                                                               CAPITULO 3: ESTUDIOS DE CASO
+
+
+
+
+                                            3.1 ANALISIS DE FLUJOS DE INFORMACION, PROCESOS Y
+
+
+                                            DIAGRAMAS.
+
+
+
+
+                                                     3.1.1 INTERACCION DE POWER BI VISIO.
+
+
+
+                                                     3.1.2 TEORIA DE RESTRICCIONES, MEDICION DEL TRABAJO Y
+
+
+                                            MAPA DE CADENA DE VALOR.
+
+
+
+                                            3.2 EVALUACION DE PROYECCIONES.
+
+
+
+                                            3.3 ADICION DE DATA EXTERNA PARA GENERAR UNA META
+
+
+                                            ACUMULADA A LA FECHA.]]></page><page Index="3"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                          3.1 INTERACCION DE POWER BI VISIO
+
+
+
+
+                    COMO FUNCIONAN LAS INTERACCIONES ENTRE LOS PROGRAMAS
+
+                    MICROSOFT Y POWER BI
+
+
+
+
+                                                                                             2. El diagrama de flujo o
+                    1.Abrir el programa VISIO
+                                                                                             proceso, procedemos a
+
+                                                                                             almacenarlo a la nube.
+
+                                                                                                             C
+
+
+
+
+
+
+                          3. Este caso se
+                          almacenará en
+
+                             ONE DRIVE,
+
+                      automáticamente se
+                        activa Visio online.
+
+
+
+
+
+
+
+                                                                                                                                               1]]></page><page Index="4"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+                                                                                                  4.Podremos obtener un
+                                                                                                  hipervínculo, en la que se insertara
+                                                                                                  en el VISUAL DE VISIO de POWER BI.
+
+
+
+
+
+
+
+                                                                                                                                      En
+
+                                                                                                                             VISUALIZATIONS
+                                                                                                                            no se encuentra
+
+                                                                                                                                el icono de
+                                                                                                                                    VISIO
+
+
+                                 5.Nos dirigimos a
+
+                                 la parte en donde
+                                 indica “GET MORE
+                                      VISUALS”,
+
+                                 seleccionamos la
+                                  primera opción.
+
+
+        2]]></page><page Index="5"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+                                                                   SELECCIONAR
+
+
+
+
+
+
+                                                                                                           CLICK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                3]]></page><page Index="6"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+                                                                                                            Se implementó el icono
+
+                                                                                                                     de Visio en
+                                                                                                                  VISUALIZATIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     ¿COMO VINCULAR DATOS EXTERNOS A UN DIAGRAMA?
+
+
+
+
+
+
+        4                            1. Se observar que en el diagrama de VISIO con 11 figuras y en el archivo
+                                                                             EXCEL con 11.
+
+
+
+        3]]></page><page Index="7"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  VISIO                                                              EXCEL                                     5]]></page><page Index="8"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                                1.Nos dirigimos a DATOS,
+                                   seleccionar ventana
+                                     DATOS EXTERNOS.
+                                                                                                                            2.Seleccionar
+                                                                                   Seleccionar
+                                                                                                                       “DATOS DE VINCULO
+                                                                                   y examinar.                          RAPIDO A FORMAS”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   (AUTOMATICAMENTE) SE
+                                     VINCULARÁ (EXCEL)
+
+
+
+
+
+
+
+
+
+         6]]></page><page Index="9"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                            3.Esperar a que se
+                                   importe.                                        Se generan 2 campos
+                                                                                 donde muestra los datos
+
+                                                                               externos del Excel, y la otra
+                                  4.Los iconos que se                           la facilidad de filtrar datos.
+
+                                encuentran en las filas
+                                   indican que están
+                                       vinculados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                              7]]></page><page Index="10"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+                                   5.Clikeando al PROCESO 1,
+                                   podremos seleccionar que
+
+
+                                     datos queremos que se
+                                               visualice.                             SI NO SE GENERARAN DE FORMA
+                                                                                     AUTOMATICA, SOLO “ARRASTRAR”
+
+                                                                                    LOS PROCESOS DE AMBOS CAMPOS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         8]]></page><page Index="11"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                          3.1.2 TEORIA DE RESTRICCIONES, MEDICION DEL TRABAJO Y
+                          MAPA DE CADENA DE VALOR.
+
+
+
+                   1.Tener el archivo VISIO                                     2.Los campos que se tiene son la
+                     ya vinculado con los                                          capacidad por (kg/día) y los
+
+                         datos externos.                                           números de operarios que se
+                                                                                    necesita en cada proceso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               “ANALISIS DEL PROCESO
+                                DE PRODUCCION DE LA
+                                         CERVEZA”
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             9
+
+
+                                                                                                  13 PROCESOS]]></page><page Index="12"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                                       3.Procediendo a
+
+                                     almacenarlo a ONE
+                                              DRIVE.
+                                                                                                          4. Abrir el archivo, nos
+                                                                                                         dirigimos a los 3 puntos,
+                                                                                                      donde seleccionar INSERTAR,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          EMPRESA DE
+                                                       ELABORACION DE
+
+                                                             CERVEZA
+        10]]></page><page Index="13"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                             5. Se nos abrirá la
+
+                          ventana en donde nos
+                                 muestra dos
+                                                                             6. Dirigiéndonos al programa POWER
+                                hipervínculos.                               BI, en donde se importaron los datos
+
+                                                                            que se utilizó para el anclaje a VISIO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                           6. En donde “copiamos el
+                                                                                                 URL para insertar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             11]]></page><page Index="14"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+                                     ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+                                  ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       En POWER BI se tiene importada los 13
+
+                                                                       procesos de la EMPREZA DE CERVEZA.
+
+
+
+
+        12
+
+                                                        7. Se trabajará en la 1RA AREA DE
+                                                                         TRABAJO.]]></page><page Index="15"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                    8. El campo de FIELDS
+                                                                                                        filtrar los datos
+
+                                                                                                    queremos que tome
+                                                                                                          en cuenta el
+                                                                                                      diagrama, en este
+                                                                                                    caso seleccionamos
+
+                                                                                                              todas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                              13]]></page><page Index="16"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     9.Se habilita una                                          10.Segamos el URL que copiamos del
+                                   sección para poner                                       archivo de VISIO ONLINE, y hacemos click
+
+       14                            un hipervínculo.                                                           en “CONECT”.]]></page><page Index="17"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Se visualizar que el análisis de                                       11. En VISUALIZATIONS añadimos                             15
+
+                                                                                     graficas como ser PIE CHART y
+               proceso de la EMPRESA DE                                                 COLUMN CHART, con sus
+
+         ELAVORACION DE CERVEZA de una                                                      respectivos valores.
+                  forma más didáctica.]]></page><page Index="18"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+                                          12. El zoom en el diagrama nos
+
+                                              indica el lugar donde nos
+                                            encontramos del DIAGRAMA.                                   Se visualizar que el análisis de
+                                                                                                          proceso de la EMPRESA DE
+
+                                                                                                    ELABORACION DE CERVEZA de una
+                                                                                                             forma más didáctica.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          El ZOOM
+
+        16                            (EJ. ACOPIO)]]></page><page Index="19"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                                           Realizar la misma acción con un MAPEO DE LA CADENA DE
+
+                                                              VALOR (TRITURADO DE MALTA).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             17]]></page><page Index="20"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+                                 Podremos identificar cuellos de
+                              botella, a que ritmo debería de ir el
+
+                                     proceso y posteriormente
+                                       implementar mejoras.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 En este caso el cuello de botella
+                                 será el PROCESO DE ACOPIO, ya
+                                 que tiene un tiempo mayor a los
+                                            demás tiempos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       18]]></page><page Index="21"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+                          3.2 EVALUANDO PROYECCIONES
+
+
+                                                                                2.Interpretar bajo las proyecciones
+
+
+                    1.  Sobre la siguiente base                                    adecuadas con las siguientes
+                                 de datos.
+                                                                                       expectativas un informe.
+
+
+
+
+
+
+
+
+
+                      (EJEMPLO) Generar proyecciones para los siguientes 5 años a un nivel de
+                      confianza del 80% y para los próximos 2 meses (excluyendo los últimos 3
+
+
+                   meses trabajados debido a falencias) con un nivel de confianza del 90%, para
+                                             los casos de productividad y demanda.
+
+
+
+
+
+
+                                                                                        • GET DATA
+                      1. Importaremos la tabla de                                       • EXCEL BOCKS
+
+                              datos de empresas                                         • SELECCIONAR LA HOJA DE
+                          cementeras nacionales.                                           EXCEL
+                                                                                        • SELECCIONAR DATOS 1                                19
+
+                                                                                        • LOAD]]></page><page Index="22"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        20]]></page><page Index="23"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+                                             •  LA TABLA GENERAL,
+
+                                             •  LAS MATRICES
+                                             •  SLAICERS RESPECTIVOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             21]]></page><page Index="24"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                              EN FIELD AÑADIR:
+
+                                                               •  Tipo
+
+                                                               •  Marca
+                                                               •  Departamento
+
+        22]]></page><page Index="25"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                                                  Crear 2 graficas en 2d (grafico de
+                                                    línea), la gráfica de la torta, por
+
+                                                último, añadimos 2 tarjetas donde nos
+
+                                                      muestre el valor directo de la
+
+                                                   productividad y de la demanda.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Se está comenzando at
+                                                                                        trabajar con la                                       23
+
+                                                                                          producción.]]></page><page Index="26"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+                                   La grafica 2d de las
+                                   líneas, nos vamos a
+
+                                       la sección de
+                                                                         Como el dato que nos
+                                       FORESCAST en                      brinda trabajaremos al
+
+
+                                     donde crearemos                         80% de nivel de                      Dar en aplicar y revisamos
+                                            nuestra                                                                los valores que nos da el
+                                         proyección.                        confianza para los                    tipo de cemento respecto
+                                                                                    años.
+                                                                                                                         a la producción.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        24]]></page><page Index="27"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+                            Dirigirnos a la sección de                       Cambiar el rango de valor por meses,
+
+                               FORESCAST en donde                               dato importante que nos brinda el
+                          cambiaremos la cantidad de                        enunciado tomar en cuenta los últimos 3
+                            puntos de proyección a 2.                                              meses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    confianza
+                                                                               Existieron
+              tomaremos el valor                                           deficiencias de
+                 que se pronuncia                                            maquinaria.
+
+                     del 90%.                                                                                                                  25]]></page><page Index="28"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+                                      Volver a repetir todos los
+                                      pasos para el caso de la
+
+
+                                    demanda. copiar las últimas
+                                         dos graficas lineales,                                        Cambiaremos en la
+                                                                                                      sección de values el
+                                                                                                     valor de la producción
+
+                                                                                                     por el de la demanda.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        26]]></page><page Index="29"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+                           3.3 ADICION DE DATA EXTERNA PARA GENERAR UNA META
+
+
+                           ACUMULADA A LA FECHA
+
+
+
+         (EJEMPLO) Una compañía cementera desea saber con certeza la producción y
+
+
+         demanda de sus unidades producidas. pero el caso de estudio es que no pueden
+         definir con exactitud dichos valores, ya que sus analistas le dan informes cada mes.
+
+          y realizar el proceso para un rango diario o semanal se hace difícil o muy costoso para
+
+         la empresa, es por ello que la empresa lo ha seleccionado a usted como parte de una
+         verificación, de que si cumple con los conocimientos del manejo del paquete de
+
+         power bi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  BASE DE DATOS DE
+                    LA COMPAÑÍA                                                                                                              27
+                      CEMENTERA
+
+                      (IMPORTAR)
+                        D)EXCEL)]]></page><page Index="30"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+                                          Creamos: LA TABLA, LAS MATRICES Y LOS
+                                            SLICERS respectivos para este caso de
+                                            estudio Incluimos también 2 tarjetas, 2
+
+                                            graficas con sus respectivas variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        28]]></page><page Index="31"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             29]]></page><page Index="32"><![CDATA[ANALISIS DE PROCESOS CON EL BIG DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                         Es importante que el archivo Excel sea
+                                                                                      modificado y guardado, de lo contrario no
+
+                                                                                          sufrirá cambios nuestro informe final.
+
+
+
+
+
+
+
+
+
+
+
+
+
+        30]]></page><page Index="33"><![CDATA[]]></page></pages></Search>
